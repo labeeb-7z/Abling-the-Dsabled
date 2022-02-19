@@ -1,0 +1,32 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    color: black;
+    font-family: 'Ubuntu Mono', monospace;
+}
+body::before{
+    content: "";
+    background:url("http://www.ilo.org/infostories/getmedia/740301f6-5213-422b-89dd-f325b3daac2e/disability-social-share.jpg?v=1") no-repeat center center/cover;
+    position: absolute;
+    top:0px;
+    left:0px;
+    /* height: 100vmax;
+    width:100vmax; */
+    height: 150vw;
+    width: 100vw;
+    z-index: -1;
+    opacity: 0.5;
+}
+.container
+{
+    display: flex;
+    flex-direction: column;
+    margin: 34px;
+    padding: 42px;
+}
+#title{
+    padding: 14px;
+}
+.para{
+    padding: 20px 23px;
+}

@@ -1,0 +1,239 @@
+h1{
+    color:blue;
+    text-align:center;
+    
+    font-size:50px;
+    font-family:sans-serif;
+    animation-name:good;
+    animation-duration:3s;
+    animation-fill-mode:forwards;
+    animation-iteration-count:infinite;
+    @keyframes good{
+      0%{
+       color:blue;
+        
+      }
+      50%{
+        color:red;
+      }
+      100%{
+        color:#C0C0C0;
+      }
+    }
+  }
+  body{
+    background-color:black;
+  }
+  h2{
+    color:#79FE0C;
+    text-align:center;
+    font-size:50px;
+  }
+  img{
+    height:500px;
+    width:400px;
+  }
+  h2:hover{
+    animation-name:new;
+    animation-duration:2s;
+    animation-fill-mode:forwards;
+    animation-iteration-count:1;
+    
+  }
+  @keyframes new{
+    100%{
+      font-size:100px;
+    }
+  }
+  
+  
+  #new{
+    border-radius:100%;
+    float:right;
+  }
+  
+  #h1{
+    animation-name:good;
+    animation-duration:10s;
+  }
+    @keyframes good{
+      0%{
+       color:blue;
+        
+      }
+      50%{
+        color:red;
+      }
+      100%{
+        color:#00FFFF;
+      }
+    }
+    
+  
+  
+  
+  p{
+   color:red;
+    font-size:40px;
+    text-align:center;
+  }
+  #image2{
+    border-radius:100%;
+    border-width:10px;
+    border-color:red;
+    border-syle:solid;
+  }
+  div{
+    color:#C0C0C0;
+    font-size:50px;
+    color:black;
+    
+  }
+  
+  h3{
+    color:#79FE0C;
+    text-align:center;
+    font-size:50px;
+  }
+  h3:hover{
+    animation-name:new;
+    animation-duration:2s;
+    animation-fill-mode:forwards;
+    animation-iteration-count:1;
+    
+  }
+  @keyframes new{
+    100%{
+      font-size:100px;
+    }
+  }
+  #deaf{
+    border-radius:100%;
+  }
+  #deaf2{
+    border-radius:100%;
+    float:right;
+  }
+  #problem{
+    text-align:center;
+    font-size:50px;
+    color:black;
+  }
+  #problem2{
+    text-align:center;
+    font-size:50px;
+    color:black;
+    
+  }
+  
+  body{
+    background-image:url("http://www.ilo.org/infostories/getmedia/740301f6-5213-422b-89dd-f325b3daac2e/disability-social-share.jpg?v=1");
+  }
+  h4{
+    font-size:50px;
+    text-align:center;
+    color: #FFD700;
+  }
+  #boy{
+    border-radius:100%;
+    float:left;
+  }
+  #old{
+    float:right;
+    border-radius:100%;
+  }
+  
+  #heading:hover{
+    animation-name:new;
+    animation-duration:2s;
+    animation-fill-mode:forwards;
+    animation-iteration-count:1;
+    
+  }
+  @keyframes new{
+    100%{
+      font-size:100px;
+    }
+  }
+  #a{
+    text-align:center;
+    font-size:50px;
+  }
+    .background{
+      background-color:black;
+    }
+  #heading{
+    color:#79FE0C;
+  }
+  h5{
+    text-align:center;
+  font-size:60px;
+    color:#79FE0C;
+  }
+  h5:hover{animation-name:new;
+    animation-duration:2s;
+    animation-fill-mode:forwards;
+    animation-iteration-count:1;
+    
+  }
+  @keyframes new{
+    100%{
+      font-size:100px;
+    }
+  }
+  #c{
+    border-radius:100%;
+    float: left;
+  }
+  #f{
+    border-radius:100%;
+    float: right;
+  }
+  #g{
+    text-align:center;
+    font-size:50px;
+    color:black;
+  }
+  article{
+    display:grid;
+    
+    color:#000000;
+    font-size:20px;
+  }
+  a{
+    color:#00008b;
+  }
+  .navbar{
+    color:black;
+    font-size:20px;
+    border-radius:10px;
+    font-color:blue;
+    
+    background-color:yellow;
+  }
+  .navbar ul{
+    overflow:auto;
+  }
+  .navbar li{
+    margin:3px 3px;
+    float:left;
+    line-style:none;
+    padding:30px;
+    text-decoration: none;
+    position:sticky;
+    top:100px;
+  }
+  h2{
+    position:relative;
+    top:50px;
+    right:200px;
+    left:45px;
+   
+  }
+  #search{
+    float:right;
+    height:30px;
+    border-radius:10px;
+    top:30px;
+    
+  }
