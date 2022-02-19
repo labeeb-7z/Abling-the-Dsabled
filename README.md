@@ -18,6 +18,15 @@ Features of The Prototype:
  •Mindful activities for the differetnly abled to have a great time.    
  •Rewards for people with more points in activities.   
  •24X7 helpline for people to talk to someone for any help.    
-      
+          
+                 
+                       
+                       
+                       
+                                     
+                                              
+                                                            
+                                                                     
+                                                                          
            
   This website is created as a part of Technovanza event wherein we are trying to help differently abled people by providing them the necessary help being meted out to them by different organizations which they are quite unaware of. Here they will find the links to such incentives. These are not affiliated links.
